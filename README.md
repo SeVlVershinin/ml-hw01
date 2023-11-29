@@ -17,4 +17,5 @@ To be done
 To be done
 ## Сервис на FastApi
 To be done
+![Screenshot](img/test_image.png)
 
