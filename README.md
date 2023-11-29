@@ -3,10 +3,10 @@
 Демонстрация работы с сервисом (скринкаст) 
 https://www.youtube.com/watch?v=gY5yGY9AT9c
 
-- [Анализ данных](##Анализ данных)
-- [Обучение модели](##Обучение моделей)
-- [Feature engineering](##Feature engineering)
-- [Сервис на FastApi](##Сервис на FastApi)
+- [Анализ данных](##анализ-данных)
+- [Обучение модели](##обучение-моделей)
+- [Feature engineering](##feature-engineering)
+- [Сервис на FastApi](##сервис-на-fastapi)
 
 
 ## Анализ данных
